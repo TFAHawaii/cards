@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Stephanie Shipton
+N;CHARSET=UTF-8:Shipton;Stephanie;;;
+TITLE;CHARSET=UTF-8:Director, Alumni Network and System Leadership
+ORG;CHARSET=UTF-8:Teach For America Hawaii;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:stephanie.shipton@teachforamerica.org
+TEL;TYPE=WORK,VOICE:+1 (808) 521-1371
+ADR;CHARSET=UTF-8;TYPE=WORK:;;500 Ala Moana Blvd.\nSuite 3-580;Honolulu;HI;96813;USA
+URL;type=WORK;CHARSET=UTF-8:https://teachforamerica.org/hawaii
+END:VCARD

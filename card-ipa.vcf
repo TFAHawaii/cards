@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Isaiah Peacott-Ricardos
+N;CHARSET=UTF-8:Peacott-Ricardos;Isaiah;;;
+TITLE;CHARSET=UTF-8:Manager, Communication
+ORG;CHARSET=UTF-8:Teach For America Hawaii;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:Isaiah.Peacott-Ricardos@teachforamerica.org
+TEL;TYPE=WORK,VOICE:+1 (346) 690-5082
+ADR;CHARSET=UTF-8;TYPE=WORK:;;500 Ala Moana Blvd.\nSuite 3-580;Honolulu;HI;96813;USA
+URL;type=WORK;CHARSET=UTF-8:https://teachforamerica.org/hawaii
+END:VCARD
